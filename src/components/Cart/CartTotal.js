@@ -14,7 +14,7 @@ export default function CartTotal({ value, history }) {
 							<button
 								className="btn btn-outline-danger text-uppercase mb-3 px-5"
 								type="button"
-								onLick={() => clearCart()}
+								onClick={() => clearCart()}
 							>
 								clear cart
 							</button>
