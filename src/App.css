@@ -1,6 +1,6 @@
 :root {
-	--mainBlue: #2a2a72;
-	--lightBlue: #009ffd;
+	--mainBlue: #6495ed;
+	--navyBlue: #191970;
 	--mainWhite: #f3f3f3;
 	--mainDark: #232528;
 	--mainYellow: #ffa400;
@@ -24,7 +24,7 @@ body {
 }
 
 .text-bright {
-	color: var(--lightBlue);
+	color: var(--navyBlue);
 }
 .btn-black {
 	background: transparent;
